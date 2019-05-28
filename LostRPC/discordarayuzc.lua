@@ -1,7 +1,7 @@
 Citizen.CreateThread(function()
 	while true do
         --This is the Application ID (Replace this with you own)
-		SetDiscordAppId(581122080763019291)
+		SetDiscordAppId(APPLICATION ID HERE)
 
         --Here you will have to put the image name for the "large" icon.
 		SetDiscordRichPresenceAsset('logo_name')
